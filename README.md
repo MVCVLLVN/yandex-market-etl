@@ -67,7 +67,7 @@ CREATE TABLE IF NOT EXISTS products (
 
 ---
 
-## ▶Как запустить
+## Как запустить
 
 ### 1. Установить зависимости
 ```bash
